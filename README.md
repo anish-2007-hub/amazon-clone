@@ -2,7 +2,6 @@
 
 A static front-end clone of the Amazon home page, built with **HTML** and **CSS** to practice layout and styling.
 
-🔗 **Live Demo:** [https://anish-2007-hub.github.io/amazon-clone/](https://anish-2007-hub.github.io/amazon-clone/)
 
 > ⚠️ **Disclaimer:** This is a non-commercial learning project. It is **not affiliated with, endorsed by, or connected to Amazon** in any way. It has no backend, no login system, no payments, and it does not collect any personal data. Amazon names, logos and trademarks belong to their respective owners.
 
